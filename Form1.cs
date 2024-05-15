@@ -5,7 +5,6 @@ namespace BookLibrary
         public Form1()
         {
             InitializeComponent();
-            "hello"
         }
     }
 }
